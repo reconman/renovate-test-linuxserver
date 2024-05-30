@@ -1,3 +1,3 @@
-FROM lscr.io/linuxserver/qbittorrent:4.6.3
+FROM lscr.io/linuxserver/qbittorrent:4.6.5
 
 ENV FOO=bar
